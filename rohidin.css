@@ -948,7 +948,7 @@ section,
 # Travel Hero Section
 --------------------------------------------------------------*/
 .travel-hero {
-  background: linear-gradient(color-mix(in srgb, var(--background-color), transparent 30%), color-mix(in srgb, var(--background-color), transparent 30%)), url("../img/travel/showcase-1.webp") center center no-repeat;
+  background: linear-gradient(color-mix(in srgb, var(--background-color), transparent 30%), color-mix(in srgb, var(--background-color), transparent 30%)), url("https://lh3.googleusercontent.com/d/16u2nI3g8ohv7av1RDHJKQATUbOqRK_ng") center center no-repeat;
   background-size: cover;
   padding: 120px 0;
   min-height: 80vh;
